@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+class Employee{
+	private:
+		string name;
+		int age;
+		int salary;
+		public:
+			Employee(string name,int age,int salary){
+				this-name=name;
+				this->age=age;
+				this ->salary=salary;
+			}
+};
+void sho
+
+
+int main(){
+	
+	
+	
+	return 0;
+}
